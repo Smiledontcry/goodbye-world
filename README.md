@@ -1,2 +1,1 @@
-# goodbye-world
-For a test.
+Meow.
